@@ -4,7 +4,7 @@
   "description": "Example for https://github.com/facebook/react/issues/XXXX",
   "main": "example.js",
   "scripts": {
-    "test": "jest example.test.js"
+    "test": "jest example"
   },
   "keywords": [
     "react",
