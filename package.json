@@ -1,0 +1,23 @@
+{
+  "name": "jest-react-prop-types-example",
+  "version": "1.0.0",
+  "description": "Example for https://github.com/facebook/react/issues/XXXX",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest example.test.js"
+  },
+  "keywords": [
+    "react",
+    "jest",
+    "bug"
+  ],
+  "author": "",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "jest": "^22.1.4",
+    "jest-environment-jsdom": "^22.1.4",
+    "prop-types": "^15.6.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
