@@ -2,7 +2,7 @@
   "name": "jest-react-prop-types-example",
   "version": "1.0.0",
   "description": "Example for https://github.com/facebook/react/issues/XXXX",
-  "main": "index.js",
+  "main": "example.js",
   "scripts": {
     "test": "jest example.test.js"
   },
